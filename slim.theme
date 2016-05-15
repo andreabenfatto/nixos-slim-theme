@@ -18,7 +18,7 @@ input_fgcolor           #000000
 # panel location
 input_panel_x           50%
 input_panel_y           50%
-input_name_x            105
+input_name_x            10666666666666666666666666666666666666666666666666666666666666666666
 input_name_y            428
 # force single input box (gdm style)
 input_pass_x            -1
@@ -27,9 +27,9 @@ input_pass_y            -1
 # username / password request (actual text)
 username_font          	Sans:size=7:bold:dpi=220
 username_color        	#000000
-username_x              100
+username_x              102
 username_y              380
-password_x              100
+password_x              102
 password_y              380
 username_msg            Username:
 password_msg            Password:
