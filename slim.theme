@@ -19,8 +19,8 @@ input_fgcolor           #000000
 # panel location
 input_panel_x           50%
 input_panel_y           50%
-input_name_x            52
-input_name_y            400
+input_name_x            50%
+input_name_y            580
 # force single input box (gdm style)
 input_pass_x            -1
 input_pass_y            -1
@@ -29,7 +29,7 @@ input_pass_y            -1
 username_font          	Sans:size=8:bold:dpi=220
 username_color        	#000000
 username_x              50%
-username_y              490
+username_y              530
 password_x              50%
 password_y              490
 username_msg            Username:
@@ -37,6 +37,6 @@ password_msg            Password:
 
 # welcome message
 welcome_x              	50%
-welcome_y              	0
+welcome_y              	500
 welcome_font           	Sans:size=8:bold:dpi=220
 welcome_color          	#000000
